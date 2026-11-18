@@ -1,0 +1,7 @@
+# 이 파일을 local.properties 로 복사한 뒤 값을 채우면 실제 메일이 발송됩니다. (Git 에 올리지 마세요)
+# Gmail 예시: 구글 계정 > 보안 > 2단계 인증 > '앱 비밀번호' 발급
+spring.mail.host=smtp.gmail.com
+spring.mail.username=your-account@gmail.com
+spring.mail.password=앱-비밀번호-16자리
+# DB 비밀번호
+spring.datasource.password=
